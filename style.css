@@ -1,0 +1,10 @@
+.grid{
+    display:flex;
+    justify-content: space-between;
+}
+
+.header{
+    display:flex;
+    background-color: red;
+    justify-content: left;
+}
